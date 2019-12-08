@@ -1,5 +1,5 @@
 from pymongo import MongoClient
-from SRC.nlp_functions import *
+from SRC.nlp import *
 import os
 # from getpass import getpass
 
