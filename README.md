@@ -5,4 +5,4 @@ Example API deployed in Heroku for the Ironhack Data & Analytics Oct 2019 bootca
 
 ## Overview
 
-The API, which can be consumed from https://api-nlp-bego.herokuapp.com/, serves data extracted from a MongoDB Atlas databased and processed using nltk NLP library.
+The API, which can be consumed from https://api-nlp-bego.herokuapp.com/, serves data extracted from a MongoDB Atlas database and processed using nltk NLP library.
