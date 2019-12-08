@@ -3,6 +3,11 @@ from SRC.mongo import CollConection
 import bson
 import os
 
+
+@get("/")
+def index():
+    return {"Welcome to the API_NLP_project example": "For further calls, please refer to the API documentation"}
+
 # User endpoints
 @post('/user/create')
 def add_user():
